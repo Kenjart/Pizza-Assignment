@@ -239,4 +239,4 @@ while receipt == False:
 ---------------------------------------------------""".format(gst))
     receipt = True
 print("Thank you for using our Pizza Program")
-print("We hoped you enjoy it and our order from our place again!")
+print("We hoped you enjoy it and order from our place again!")
