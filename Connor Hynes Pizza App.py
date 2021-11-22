@@ -181,13 +181,13 @@ while receipt == False:
     RECEIPT
 ---------------------------------------------------""")
     if result[0] == "s":
-       print("Small Pizza\t 5.00")
+       print("\tSmall Pizza\t 5.00")
        result[0] = "a"
     elif result[0] == "m":
-        print("Medium Pizza\t 13.00")
+        print("\tMedium Pizza\t 13.00")
         result[0] = "a"
     elif result[0] == "l":
-        print("Large Pizza\t 20.00")
+        print("\tLarge Pizza\t 20.00")
         result[0] = "a"
     print ("""---------------------------------------------------
     TOPPINGS
