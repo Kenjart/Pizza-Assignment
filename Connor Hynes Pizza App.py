@@ -238,5 +238,6 @@ while receipt == False:
     COST: {}
 ---------------------------------------------------""".format(gst))
     receipt = True
+time.sleep(3)
 print("Thank you for using our Pizza Program")
 print("We hoped you enjoy it and order from our place again!")
